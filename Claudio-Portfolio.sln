@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claudio-Portfolio", "Claudio-Portfolio\Claudio-Portfolio.csproj", "{6E24DC55-06D2-4306-887F-947DFF9D8C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E24DC55-06D2-4306-887F-947DFF9D8C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E24DC55-06D2-4306-887F-947DFF9D8C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E24DC55-06D2-4306-887F-947DFF9D8C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E24DC55-06D2-4306-887F-947DFF9D8C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9917E64E-D82E-42DD-80A7-D16D34DD3931}
+	EndGlobalSection
+EndGlobal
